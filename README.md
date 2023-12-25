@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NafiunAlAmin
 - 👀 I’m interested in machine learning, artificial intelligence and data analysis.
-- 🌱 I’m currently learning mySQL and flutter
 - 💞️ I’m looking to collaborate on projects with artifical intelligence and data analysis
 📫 How to reach me at nafiunalamin@gmail.com
 
