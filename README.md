@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @NafiunAlAmin
-- 👀 I’m interested in machine learning, artificial intelligence and data analysis.
-- 💞️ I’m looking to collaborate on projects with artifical intelligence and data analysis
-📫 How to reach me at nafiunalamin@gmail.com
+👋 Hi, I’m @NafiunAlAmin
 
-<!---
-NafiunAlAmin/NafiunAlAmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about machine learning, artificial intelligence, and data analysis.
+
+💞️ I’m actively seeking collaboration on projects involving artificial intelligence and data analysis.
+
+📫 How to reach me: nafiunalamin@gmail.com
